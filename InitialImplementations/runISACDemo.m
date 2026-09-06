@@ -14,7 +14,6 @@ function runISACDemo()
 %   multistatic pipeline builds on.
 
 clc;
-fprintf('=== Minimal ISAC sensing demo ===\n\n');
 
 % ---- 1. scenario ----
 cfg = isacConfig();
